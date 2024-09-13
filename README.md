@@ -27,6 +27,10 @@
 <p align="left"> 
 
 
+<a href="[https://www.arduino.cc/](https://react.dev/)" target="_blank" rel="noreferrer"> 
+    <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon.png)" alt="arduino" width="40" height="40"/> 
+</a> 
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a> 
