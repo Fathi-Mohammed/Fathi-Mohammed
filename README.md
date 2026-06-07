@@ -1,51 +1,137 @@
-<br clear="both">
+<div align="center">
 
-<h2 align="left">Hi 👋! My name is Fathi and I'm a Front-End Developer, from Egypt</h2>
+<h1>Hi 👋, I'm Fathi Mohammed</h1>
 
-###
-
-<div align="left">
-<a href="mailto:fathymohammed2229@gmail.com" target="_blank"> 
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> 
+<a href="https://github.com/Fathi-Mohammed">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=540&height=45&lines=Front-End+Developer+from+Egypt;React+%26+Next.js+Specialist;Turning+Figma+into+Pixel-Perfect+UIs;Performance+%26+SEO+Focused" alt="What I do" />
 </a>
-  <a href="https://www.linkedin.com/in/fathi-mohammed-999083326" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100009710711089" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
 
-###
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fathi-Mohammed&label=Profile%20views&color=0e75b6&style=flat" alt="Fathi-Mohammed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fathi-Mohammed" alt="Fathi-Mohammed" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-
-<a href="[https://www.arduino.cc/](https://react.dev/)" target="_blank" rel="noreferrer"> 
-    <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon.png)" alt="arduino" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
-
+<p>
+  Crafting fast, scalable & beautifully detailed web interfaces with <b>React</b>, <b>Next.js</b> & <b>TypeScript</b>.
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fathi-Mohammed&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="Fathi-Mohammed" /></p>
+<a href="https://www.linkedin.com/in/fathi-mohammed-999083326" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:fathymohammed2229@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/Fathi-Mohammed" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100009710711089" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fathi-Mohammed&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="Fathi-Mohammed" /></p>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fathi-Mohammed&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+<img src="https://komarev.com/ghpvc/?username=Fathi-Mohammed&label=Profile+Views&color=10B981&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🚀 **Front-End Developer** with **3+ years** building high-performance, SEO-friendly web apps
+- ⚛️ Specialized in **React.js**, **Next.js** & **TypeScript**, with a strong focus on clean architecture
+- 🎨 Passionate about **design systems**, **micro-animations** & turning Figma into **pixel-perfect** UIs
+- 🌍 Based in **Mansoura, Egypt** — open to new front-end opportunities
+- 📫 Reach me at **fathymohammed2229@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass&theme=dark" alt="Languages" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" alt="Frameworks" />
+&nbsp;
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" height="28" />
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" height="28" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,figma,postman,nodejs,express&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎓 Booslah</h3>
+<p>A professional <b>mentorship marketplace</b> connecting users with industry experts — multi-language (AR/EN), advanced filtering & a dynamic booking system, fully optimized for SEO.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>React Query</code> <code>Next-Intl</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💬 Hein</h3>
+<p>A <b>classified ads platform</b> with account creation, ad posting, <b>real-time chat</b>, a wallet payment system & premium subscriptions.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Pusher</code> <code>Ant Design</code> <code>React Query</code></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🍦 Alamal</h3>
+<p>An <b>e-commerce platform</b> for an ice-cream brand — product browsing, cart & checkout, job applications and customer support flows.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Ant Design</code> <code>Sass</code> <code>Swiper</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧾 Invoice Generator</h3>
+<p>A <b>full-stack</b> service that generates PDF invoices on the fly via an API by rendering HTML templates server-side.</p>
+<p><code>Express.js</code> <code>Puppeteer</code> <code>Node.js</code></p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fathi-Mohammed&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9&icon_color=22D3EE&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathi-Mohammed&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9" alt="Top Languages" />
+
+<br/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Fathi-Mohammed&hide_border=true&background=0D1117&stroke=21262D&ring=34D399&fire=22D3EE&currStreakLabel=34D399&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=8B949E&excludeDaysLabel=8B949E" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fathi-Mohammed&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathi-Mohammed&bg_color=0D1117&color=C9D1D9&title_color=34D399&line=34D399&point=22D3EE&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=footer" width="100%" />
+  <br/>
+  <i>Thanks for visiting — let's build something great together! 💚</i>
+</div>
