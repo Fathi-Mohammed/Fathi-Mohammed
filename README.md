@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Fathi-Mohammed/Fathi-Mohammed/main/assets/hero.svg"
+    src="https://github.com/Fathi-Mohammed/Fathi-Mohammed/blob/main/assets/hero.svg?raw=true"
     width="100%"
     alt="Fathi Mohammed — Frontend Engineer"
   />
