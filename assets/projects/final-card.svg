@@ -1,0 +1,65 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Final case study</title>
+  <desc id="desc">Next.js 16 rebuild of a live camera equipment rental platform.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080A0E"/>
+      <stop offset="1" stop-color="#101822"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="56" y1="42" x2="500" y2="298" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F1D18A"/>
+      <stop offset="1" stop-color="#62D99A"/>
+    </linearGradient>
+    <style>
+      .k{font:800 13px 'Inter','Segoe UI',Arial,sans-serif;letter-spacing:1.9px;fill:#8FE7BE}
+      .t{font:850 46px 'Inter','Segoe UI',Arial,sans-serif;fill:#F8FAFC}
+      .b{font:500 20px 'Inter','Segoe UI',Arial,sans-serif;fill:#CAD4DE}
+      .m{font:850 25px 'Inter','Segoe UI',Arial,sans-serif;fill:#F8FAFC}
+      .ml{font:800 12px 'Inter','Segoe UI',Arial,sans-serif;letter-spacing:1.2px;fill:#93A4B2}
+      .chip{font:800 14px 'Inter','Segoe UI',Arial,sans-serif;fill:#ECFFF6}
+      .ui{font:800 13px 'Inter','Segoe UI',Arial,sans-serif;fill:#5A4630}
+    </style>
+  </defs>
+  <rect width="1280" height="340" rx="26" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="338" rx="25" stroke="#243141"/>
+
+  <rect x="42" y="42" width="430" height="256" rx="24" fill="#F8F4EC"/>
+  <rect x="66" y="66" width="382" height="36" rx="18" fill="#FFFFFF"/>
+  <circle cx="90" cy="84" r="7" fill="#FF6B5E"/>
+  <circle cx="112" cy="84" r="7" fill="#F5BF4F"/>
+  <circle cx="134" cy="84" r="7" fill="#59D59A"/>
+  <rect x="66" y="126" width="132" height="36" rx="12" fill="#C99C63"/>
+  <text x="90" y="149" class="ui">Rental</text>
+  <rect x="214" y="126" width="110" height="36" rx="12" fill="#EEE6DA"/>
+  <rect x="340" y="126" width="84" height="36" rx="12" fill="#EEE6DA"/>
+  <rect x="66" y="184" width="104" height="84" rx="16" fill="#FFFFFF" stroke="#E6DDD2"/>
+  <rect x="188" y="184" width="104" height="84" rx="16" fill="#FFFFFF" stroke="#E6DDD2"/>
+  <rect x="310" y="184" width="104" height="84" rx="16" fill="#FFFFFF" stroke="#E6DDD2"/>
+  <path d="M86 230C103 210 122 247 149 217" stroke="url(#accent)" stroke-width="9" stroke-linecap="round"/>
+  <rect x="208" y="212" width="44" height="22" rx="8" fill="#D6DADF"/>
+  <circle cx="348" cy="224" r="19" fill="#D6DADF"/>
+
+  <text x="526" y="70" class="k">PLATFORM REBUILD / TECHNICAL LEAD</text>
+  <text x="526" y="130" class="t">Final</text>
+  <text x="526" y="177" class="b">Complete Next.js 16 rebuild of a live camera-equipment rental platform.</text>
+  <text x="526" y="207" class="b">Led design system, frontend architecture, quality flow, and mobile performance.</text>
+
+  <rect x="526" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
+  <text x="552" y="275" class="m">37 -> 98</text>
+  <text x="552" y="293" class="ml">LIGHTHOUSE</text>
+  <rect x="692" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
+  <text x="718" y="275" class="m">10.9s -> .8s</text>
+  <text x="718" y="293" class="ml">LCP</text>
+  <rect x="858" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
+  <text x="884" y="275" class="m">254</text>
+  <text x="884" y="293" class="ml">TEST FILES</text>
+
+  <rect x="1042" y="94" width="116" height="32" rx="11" fill="#10241F" stroke="#275245"/>
+  <text x="1061" y="115" class="chip">Next.js 16</text>
+  <rect x="1042" y="138" width="116" height="32" rx="11" fill="#10241F" stroke="#275245"/>
+  <text x="1062" y="159" class="chip">TypeScript</text>
+  <rect x="1042" y="182" width="96" height="32" rx="11" fill="#10241F" stroke="#275245"/>
+  <text x="1061" y="203" class="chip">Tailwind</text>
+  <rect x="1042" y="226" width="152" height="32" rx="11" fill="#10241F" stroke="#275245"/>
+  <text x="1061" y="247" class="chip">TanStack Query</text>
+</svg>

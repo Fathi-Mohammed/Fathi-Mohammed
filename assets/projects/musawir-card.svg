@@ -1,0 +1,63 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Musawir case study</title>
+  <desc id="desc">Saudi marketplace UI rebuild inside a live Laravel codebase.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080A0E"/>
+      <stop offset="0.65" stop-color="#101822"/>
+      <stop offset="1" stop-color="#10141E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="70" y1="74" x2="418" y2="268" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#57B7FF"/>
+      <stop offset="0.55" stop-color="#59D59A"/>
+      <stop offset="1" stop-color="#E8FF8A"/>
+    </linearGradient>
+    <style>
+      .k{font:800 13px 'Inter','Segoe UI',Arial,sans-serif;letter-spacing:1.9px;fill:#57B7FF}
+      .t{font:850 46px 'Inter','Segoe UI',Arial,sans-serif;fill:#F8FAFC}
+      .b{font:500 20px 'Inter','Segoe UI',Arial,sans-serif;fill:#CAD4DE}
+      .m{font:850 25px 'Inter','Segoe UI',Arial,sans-serif;fill:#F8FAFC}
+      .ml{font:800 12px 'Inter','Segoe UI',Arial,sans-serif;letter-spacing:1.2px;fill:#93A4B2}
+      .chip{font:800 14px 'Inter','Segoe UI',Arial,sans-serif;fill:#ECFFF6}
+      .ui{font:800 13px 'Inter','Segoe UI',Arial,sans-serif;fill:#15202A}
+    </style>
+  </defs>
+  <rect width="1280" height="340" rx="26" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="338" rx="25" stroke="#243141"/>
+
+  <rect x="42" y="42" width="430" height="256" rx="24" fill="#F4F8FA"/>
+  <rect x="72" y="72" width="370" height="48" rx="24" fill="#FFFFFF"/>
+  <rect x="96" y="90" width="134" height="12" rx="6" fill="#1A2430"/>
+  <rect x="342" y="84" width="74" height="24" rx="12" fill="#57B7FF"/>
+  <rect x="72" y="144" width="162" height="116" rx="20" fill="#FFFFFF" stroke="#DCE5EA"/>
+  <rect x="254" y="144" width="162" height="116" rx="20" fill="#FFFFFF" stroke="#DCE5EA"/>
+  <circle cx="132" cy="188" r="28" fill="url(#accent)"/>
+  <rect x="174" y="174" width="38" height="10" rx="5" fill="#C8D4DC"/>
+  <rect x="174" y="194" width="28" height="10" rx="5" fill="#C8D4DC"/>
+  <rect x="282" y="172" width="106" height="58" rx="15" fill="#E8EEF2"/>
+  <path d="M296 214L322 188L344 210L356 198L380 224" stroke="#57B7FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="526" y="70" class="k">MARKETPLACE UI REBUILD / LIVE LARAVEL PRODUCT</text>
+  <text x="526" y="130" class="t">Musawir</text>
+  <text x="526" y="177" class="b">Saudi marketplace connecting clients with photographers.</text>
+  <text x="526" y="207" class="b">Reworked core UI, removed overlapping plugins, rebuilt pages, and improved speed.</text>
+
+  <rect x="526" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
+  <text x="552" y="275" class="m">45 -> 97</text>
+  <text x="552" y="293" class="ml">LIGHTHOUSE</text>
+  <rect x="692" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
+  <text x="718" y="275" class="m">Live</text>
+  <text x="718" y="293" class="ml">CODEBASE</text>
+  <rect x="858" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
+  <text x="884" y="275" class="m">UI</text>
+  <text x="884" y="293" class="ml">REBUILD</text>
+
+  <rect x="1042" y="94" width="96" height="32" rx="11" fill="#10241F" stroke="#275245"/>
+  <text x="1061" y="115" class="chip">Laravel</text>
+  <rect x="1042" y="138" width="82" height="32" rx="11" fill="#10241F" stroke="#275245"/>
+  <text x="1061" y="159" class="chip">Blade</text>
+  <rect x="1042" y="182" width="72" height="32" rx="11" fill="#10241F" stroke="#275245"/>
+  <text x="1061" y="203" class="chip">Sass</text>
+  <rect x="1042" y="226" width="104" height="32" rx="11" fill="#10241F" stroke="#275245"/>
+  <text x="1061" y="247" class="chip">Swiper</text>
+</svg>

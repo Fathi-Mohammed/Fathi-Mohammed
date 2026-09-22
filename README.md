@@ -1,92 +1,59 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Fathi Mohammed — Frontend Engineer" />
+  <a href="https://portfolio-eosin-rho-32.vercel.app/">
+    <img src="./assets/hero.svg" width="100%" alt="Fathi Mohammed - Frontend Engineer" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://portfolio-eosin-rho-32.vercel.app/"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fathi-mohammed-999083326"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="mailto:fathymohammed2229@gmail.com"><strong>Email</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="https://github.com/Fathi-Mohammed?tab=repositories"><strong>Repositories</strong></a>
 </p>
 
 <br />
 
-## Selected Work
-
-<p>
-Selected platforms from the last three years — focused on architecture,
-performance and real production impact.
-</p>
-
-<p>
-  <a href="https://portfolio-eosin-rho-32.vercel.app/projects/final">
-    <img src="./assets/projects/final-card.svg" width="100%" alt="Final project card" />
-  </a>
-</p>
-
-<p>
-  <a href="https://portfolio-eosin-rho-32.vercel.app/projects/energy-elhadad">
-    <img src="./assets/projects/energy-card.svg" width="100%" alt="Energy Elhadad project card" />
-  </a>
-</p>
-
-<p>
-  <a href="https://portfolio-eosin-rho-32.vercel.app/projects/musawir">
-    <img src="./assets/projects/musawir-card.svg" width="100%" alt="Musawir project card" />
-  </a>
-</p>
-
-<br />
-
-## What I Do
-
 <table width="100%">
   <tr>
-    <td width="38%" valign="top">
-      <h3>Engineering interfaces that hold up in production.</h3>
+    <td width="58%" valign="top">
+      <h2>Frontend engineer building React and Next.js platforms.</h2>
       <p>
-        I work end to end on the frontend — setting up architecture,
-        shaping the interface and keeping both fast as the product grows.
+        I build fast, scalable and maintainable web experiences with a strong focus on
+        architecture, performance and polished user interfaces.
       </p>
       <p>
-        Most of my work lives inside React and Next.js codebases that need
-        to stay maintainable for years, not weeks.
+        My work sits where product quality meets engineering discipline: reusable UI systems,
+        feature-based frontend architecture, bilingual AR/EN interfaces, and performance work
+        that can be measured in real production numbers.
       </p>
       <p>
-        <strong>I care about the parts users see — and the architecture they never see.</strong>
+        <strong>I care about the parts users see, and the architecture they never see.</strong>
       </p>
     </td>
-    <td width="62%" valign="top">
+    <td width="42%" valign="top">
       <table width="100%">
         <tr>
-          <td valign="top">
-            <h4>01 — Frontend Engineering</h4>
-            <p>
-              Feature-based React & Next.js architecture, clear domain boundaries
-              and reusable systems designed to stay predictable as products grow.
-            </p>
-          </td>
+          <td><strong>Based in</strong></td>
+          <td align="right">Mansoura, Egypt</td>
         </tr>
         <tr>
-          <td valign="top">
-            <h4>02 — Performance & SEO</h4>
-            <p>
-              Core Web Vitals, rendering strategy, bundle optimization, code splitting
-              and SEO treated as product features — not afterthoughts.
-            </p>
-          </td>
+          <td><strong>Experience</strong></td>
+          <td align="right">4++ years</td>
         </tr>
         <tr>
-          <td valign="top">
-            <h4>03 — Bilingual UI Engineering</h4>
-            <p>
-              Arabic-first AR / EN · RTL interfaces, reusable components
-              and design conventions that scale cleanly across teams.
-            </p>
-          </td>
+          <td><strong>Delivered</strong></td>
+          <td align="right">70++ projects</td>
+        </tr>
+        <tr>
+          <td><strong>Core stack</strong></td>
+          <td align="right">React / Next.js / TS</td>
+        </tr>
+        <tr>
+          <td><strong>Availability</strong></td>
+          <td align="right">Open now</td>
         </tr>
       </table>
     </td>
@@ -95,30 +62,83 @@ performance and real production impact.
 
 <br />
 
+## What I Do
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01. Frontend Engineering</h3>
+      <p>
+        Feature-based React and Next.js architecture, clear domain boundaries, reusable
+        components, and mapper layers that isolate backend DTOs from app-owned models.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02. Performance and SEO</h3>
+      <p>
+        Core Web Vitals treated as product work: rendering strategy, bundle analysis,
+        code splitting, optimized fonts, SVGs, metadata, and measurable Lighthouse gains.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03. Bilingual UI Systems</h3>
+      <p>
+        Arabic-first AR/EN interfaces, full RTL mirroring, shared UI conventions, and
+        component systems that teams can review and extend without friction.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## Selected Work
+
+<p>
+  <a href="https://portfolio-eosin-rho-32.vercel.app/projects/final">
+    <img src="./assets/projects/final-card.svg" width="100%" alt="Final case study - Next.js 16 rental platform rebuild" />
+  </a>
+</p>
+
+<p>
+  <a href="https://portfolio-eosin-rho-32.vercel.app/projects/energy-elhadad">
+    <img src="./assets/projects/energy-card.svg" width="100%" alt="Energy Elhadad case study - bilingual e-commerce platform" />
+  </a>
+</p>
+
+<p>
+  <a href="https://portfolio-eosin-rho-32.vercel.app/projects/musawir">
+    <img src="./assets/projects/musawir-card.svg" width="100%" alt="Musawir case study - Saudi marketplace UI rebuild" />
+  </a>
+</p>
+
+<br />
+
 ## Experience Snapshot
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Business Building</h4>
+      <h3>Business Building</h3>
       <p><strong>React | Next Front-End Developer</strong></p>
-      <p><sub>Dec 2024 — Present · Mansoura</sub></p>
+      <p><sub>Dec 2024 - Present / Mansoura</sub></p>
       <ul>
-        <li>Architected a scalable Arabic-first bilingual Next.js platform.</li>
-        <li>Introduced a mapper layer to isolate backend DTOs from app-owned models.</li>
-        <li>Lifted Lighthouse performance from ~40 to ~98 and reduced initial load by ~60%.</li>
+        <li>Architected a scalable Arabic-first bilingual Next.js platform with full RTL support.</li>
+        <li>Introduced a mapper layer to keep backend DTOs separate from product domain models.</li>
+        <li>Lifted Lighthouse performance from about 40 to about 98 and reduced initial load by about 60%.</li>
         <li>Set frontend conventions and code review flow for maintainable delivery.</li>
+        <li>Built an Express.js and Puppeteer invoice API that paginates long tables correctly.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>Almasader Alraqmia</h4>
-      <p><strong>Front-End & UI/UX Developer</strong></p>
-      <p><sub>May 2023 — Dec 2024 · Mansoura</sub></p>
+      <h3>Almasader Alraqmia</h3>
+      <p><strong>Front-End and UI/UX Developer</strong></p>
+      <p><sub>May 2023 - Dec 2024 / Mansoura</sub></p>
       <ul>
-        <li>Delivered responsive, high-fidelity interfaces across multiple client platforms.</li>
-        <li>Built a reusable React component library integrated with TanStack Query.</li>
-        <li>Reduced feature development time by ~45% by standardizing shared UI patterns.</li>
-        <li>Worked with QA through testing, fixes and deployment.</li>
+        <li>Delivered responsive, high-fidelity interfaces from Figma across multiple platforms.</li>
+        <li>Built reusable React components integrated with TanStack Query for repeated workflows.</li>
+        <li>Reduced feature development time by about 45% through shared UI and data-fetching patterns.</li>
+        <li>Worked with QA through testing, fixes, and deployment to keep interfaces aligned with real flows.</li>
       </ul>
     </td>
   </tr>
@@ -130,56 +150,40 @@ performance and real production impact.
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h4>Frontend</h4>
+    <td width="25%" valign="top">
+      <h3>Frontend</h3>
       <p>
-        <code>React</code>
-        <code>Next.js</code>
-        <code>TypeScript</code>
+        <code>React</code><br />
+        <code>Next.js</code><br />
+        <code>TypeScript</code><br />
         <code>JavaScript</code>
       </p>
-
-      <h4>UI</h4>
+    </td>
+    <td width="25%" valign="top">
+      <h3>UI</h3>
       <p>
-        <code>Tailwind CSS</code>
-        <code>Sass</code>
-        <code>Ant Design</code>
+        <code>Tailwind CSS</code><br />
+        <code>Sass</code><br />
+        <code>Ant Design</code><br />
         <code>shadcn/ui</code>
       </p>
     </td>
-
-    <td width="33%" valign="top">
-      <h4>Architecture</h4>
+    <td width="25%" valign="top">
+      <h3>Architecture</h3>
       <p>
-        <code>Feature-Sliced Design</code>
-        <code>Domain Modeling</code>
-        <code>Design Systems</code>
-      </p>
-
-      <h4>State & Data</h4>
-      <p>
-        <code>TanStack Query</code>
-        <code>Redux Toolkit</code>
+        <code>Feature-Sliced Design</code><br />
+        <code>Domain Modeling</code><br />
+        <code>Design Systems</code><br />
+        <code>Mapper Layers</code>
       </p>
     </td>
-
-    <td width="33%" valign="top">
-      <h4>Auth & Real-time</h4>
+    <td width="25%" valign="top">
+      <h3>Workflow</h3>
       <p>
-        <code>NextAuth</code>
-        <code>Socket.io</code>
-        <code>Pusher</code>
-      </p>
-
-      <h4>Backend & Workflow</h4>
-      <p>
-        <code>Node.js</code>
-        <code>Express.js</code>
-        <code>Git</code>
-        <code>GitHub</code>
-        <code>GitLab</code>
-        <code>Bitbucket</code>
-        <code>Jira</code>
+        <code>TanStack Query</code><br />
+        <code>Redux Toolkit</code><br />
+        <code>NextAuth</code><br />
+        <code>Git / GitHub</code>
       </p>
     </td>
   </tr>
@@ -187,14 +191,37 @@ performance and real production impact.
 
 <br />
 
+## Current Focus
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Architecture that scales</strong>
+      <p>Feature ownership, domain models, shared contracts, and UI systems that survive product growth.</p>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Performance as a feature</strong>
+      <p>Measured loading improvements, rendering decisions per page, and assets tuned for real users.</p>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Arabic-first products</strong>
+      <p>Clean RTL foundations, bilingual content flows, and interfaces that feel natural in both directions.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Let's make something great together" />
+  <a href="mailto:fathymohammed2229@gmail.com">
+    <img src="./assets/footer.svg" width="100%" alt="Let's make something great together - Say hi" />
+  </a>
 </p>
 
 <p align="center">
   <a href="mailto:fathymohammed2229@gmail.com"><strong>Say Hi</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="https://portfolio-eosin-rho-32.vercel.app/"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fathi-mohammed-999083326"><strong>LinkedIn</strong></a>
 </p>
