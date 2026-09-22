@@ -1,4 +1,4 @@
-hero<svg width="1280" height="560" viewBox="0 0 1280 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="560" viewBox="0 0 1280 560" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="g1" x1="0" y1="0" x2="1280" y2="560" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0D1117"/>
