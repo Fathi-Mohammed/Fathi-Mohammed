@@ -1,79 +1,55 @@
-<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Fathi Mohammed - Frontend Engineer</title>
-  <desc id="desc">A modern GitHub profile hero for a React and Next.js frontend engineer.</desc>
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">Fathi Mohammed - Frontend Engineer</title>
+  <desc id="hero-desc">Frontend engineer specializing in React, Next.js, performance, and bilingual products.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="520" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07090D"/>
-      <stop offset="0.62" stop-color="#0E151E"/>
-      <stop offset="1" stop-color="#111C1A"/>
+    <linearGradient id="hero-bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B10"/>
+      <stop offset="0.72" stop-color="#0C131A"/>
+      <stop offset="1" stop-color="#0C1816"/>
     </linearGradient>
-    <linearGradient id="accent" x1="810" y1="60" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#E8FF8A"/>
-      <stop offset="0.45" stop-color="#59D59A"/>
-      <stop offset="1" stop-color="#57B7FF"/>
-    </linearGradient>
-    <linearGradient id="warm" x1="140" y1="420" x2="440" y2="500" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFCC66"/>
-      <stop offset="1" stop-color="#59D59A"/>
+    <linearGradient id="hero-line" x1="66" y1="354" x2="1134" y2="354" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4C95D"/>
+      <stop offset="0.5" stop-color="#67D6A3"/>
+      <stop offset="1" stop-color="#55B7F3"/>
     </linearGradient>
     <style>
-      .label{font:700 14px 'Inter','Segoe UI',Arial,sans-serif;letter-spacing:2.4px;fill:#8FE7BE}
-      .title{font:850 72px 'Inter','Segoe UI',Arial,sans-serif;fill:#F7FAFC}
-      .title2{font:850 64px 'Inter','Segoe UI',Arial,sans-serif;fill:#F7FAFC}
-      .copy{font:500 24px 'Inter','Segoe UI',Arial,sans-serif;fill:#C7D2DC}
-      .small{font:700 15px 'Inter','Segoe UI',Arial,sans-serif;fill:#98A7B5}
-      .chip{font:800 15px 'Inter','Segoe UI',Arial,sans-serif;fill:#ECFFF6}
-      .metric{font:850 34px 'Inter','Segoe UI',Arial,sans-serif;fill:#F7FAFC}
-      .metricLabel{font:800 12px 'Inter','Segoe UI',Arial,sans-serif;letter-spacing:1.4px;fill:#93A4B2}
-      .panelText{font:700 18px 'Inter','Segoe UI',Arial,sans-serif;fill:#DCE7EE}
+      .eyebrow { font-family: Arial, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 2px; fill: #76E1B0; }
+      .name { font-family: Arial, sans-serif; font-size: 64px; font-weight: 700; fill: #F7F9FB; }
+      .role { font-family: Arial, sans-serif; font-size: 30px; font-weight: 700; fill: #F7F9FB; }
+      .body { font-family: Arial, sans-serif; font-size: 19px; font-weight: 400; fill: #B8C4CE; }
+      .label { font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; fill: #DDE7EC; }
     </style>
   </defs>
 
-  <rect width="1280" height="520" rx="30" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1278" height="518" rx="29" stroke="#223041"/>
-  <path d="M0 414C166 384 263 445 430 412C557 387 655 326 794 342C942 359 1015 449 1280 385V520H0V414Z" fill="#0B1218" opacity="0.95"/>
-  <path d="M0 434C181 404 282 464 433 430C557 402 649 357 790 372C950 390 1038 458 1280 405" stroke="url(#warm)" stroke-width="3" opacity="0.95"/>
+  <rect width="1200" height="420" rx="22" fill="url(#hero-bg)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="21" stroke="#26323E"/>
+  <text x="66" y="66" class="eyebrow">CRAFTING THE EXPERIENCE</text>
+  <text x="66" y="154" class="name">Fathi Mohammed</text>
+  <text x="66" y="205" class="role">Frontend Engineer</text>
+  <text x="66" y="263" class="body">React and Next.js products built for speed, clarity,</text>
+  <text x="66" y="293" class="body">and confident bilingual experiences.</text>
 
-  <text x="74" y="74" class="label">CRAFTING THE EXPERIENCE</text>
-  <text x="74" y="166" class="title">Hey There,</text>
-  <text x="74" y="242" class="title2">I'm Fathi.</text>
-  <rect x="74" y="276" width="632" height="2" fill="#243242"/>
-  <text x="74" y="334" class="copy">Frontend engineer building React and Next.js platforms.</text>
-  <text x="74" y="370" class="copy">Fast interfaces. Scalable architecture. Bilingual products.</text>
-
-  <rect x="74" y="420" width="112" height="38" rx="13" fill="#10241F" stroke="#275245"/>
-  <text x="99" y="445" class="chip">React</text>
-  <rect x="198" y="420" width="126" height="38" rx="13" fill="#10241F" stroke="#275245"/>
-  <text x="220" y="445" class="chip">Next.js</text>
-  <rect x="336" y="420" width="152" height="38" rx="13" fill="#10241F" stroke="#275245"/>
-  <text x="358" y="445" class="chip">TypeScript</text>
-  <rect x="500" y="420" width="176" height="38" rx="13" fill="#10241F" stroke="#275245"/>
-  <text x="522" y="445" class="chip">Architecture</text>
-
-  <g transform="translate(778 58)">
-    <rect x="0" y="0" width="420" height="318" rx="28" fill="#0D141D" stroke="#263746"/>
-    <rect x="28" y="28" width="364" height="48" rx="18" fill="#F8F5EE"/>
-    <circle cx="58" cy="52" r="9" fill="#FF6B5E"/>
-    <circle cx="86" cy="52" r="9" fill="#F5BF4F"/>
-    <circle cx="114" cy="52" r="9" fill="#59D59A"/>
-    <rect x="28" y="102" width="154" height="34" rx="12" fill="#13231F" stroke="#28483E"/>
-    <rect x="202" y="102" width="162" height="34" rx="12" fill="#111C27" stroke="#263746"/>
-    <rect x="28" y="162" width="105" height="104" rx="18" fill="#F8F5EE"/>
-    <rect x="154" y="162" width="105" height="104" rx="18" fill="#131B25" stroke="#263746"/>
-    <rect x="280" y="162" width="84" height="104" rx="18" fill="#13231F" stroke="#28483E"/>
-    <path d="M47 218C73 185 94 238 121 204" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
-    <path d="M176 214L202 188L235 236" stroke="#57B7FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M302 226C319 200 339 205 348 182" stroke="#E8FF8A" stroke-width="10" stroke-linecap="round"/>
-    <text x="28" y="294" class="small">React / Next.js / TypeScript</text>
+  <g transform="translate(760 62)">
+    <rect width="374" height="244" rx="18" fill="#101821" stroke="#2A3947"/>
+    <rect x="20" y="20" width="334" height="34" rx="10" fill="#F4F2EC"/>
+    <circle cx="40" cy="37" r="5" fill="#F17468"/>
+    <circle cx="57" cy="37" r="5" fill="#F4C95D"/>
+    <circle cx="74" cy="37" r="5" fill="#67D6A3"/>
+    <rect x="20" y="76" width="148" height="58" rx="12" fill="#13231F" stroke="#285143"/>
+    <rect x="186" y="76" width="168" height="58" rx="12" fill="#121E29" stroke="#2A3947"/>
+    <rect x="20" y="152" width="96" height="72" rx="12" fill="#F4F2EC"/>
+    <rect x="134" y="152" width="96" height="72" rx="12" fill="#121E29" stroke="#2A3947"/>
+    <rect x="248" y="152" width="106" height="72" rx="12" fill="#13231F" stroke="#285143"/>
+    <path d="M39 195C57 172 78 210 98 181" stroke="#67D6A3" stroke-width="7" stroke-linecap="round"/>
+    <path d="M153 198L174 177L211 207" stroke="#55B7F3" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M270 202C287 179 306 194 332 171" stroke="#E4F77B" stroke-width="7" stroke-linecap="round"/>
   </g>
 
-  <rect x="760" y="414" width="148" height="72" rx="18" fill="#0D141D" stroke="#263746"/>
-  <text x="790" y="456" class="metric">4++</text>
-  <text x="790" y="478" class="metricLabel">YEARS</text>
-  <rect x="924" y="414" width="148" height="72" rx="18" fill="#0D141D" stroke="#263746"/>
-  <text x="954" y="456" class="metric">70++</text>
-  <text x="954" y="478" class="metricLabel">PROJECTS</text>
-  <rect x="1088" y="414" width="148" height="72" rx="18" fill="#0D141D" stroke="#263746"/>
-  <text x="1118" y="456" class="metric">60%</text>
-  <text x="1118" y="478" class="metricLabel">FASTER LOAD</text>
+  <rect x="66" y="330" width="130" height="38" rx="10" fill="#10231E" stroke="#285143"/>
+  <text x="99" y="355" class="label">React</text>
+  <rect x="208" y="330" width="130" height="38" rx="10" fill="#10231E" stroke="#285143"/>
+  <text x="243" y="355" class="label">Next.js</text>
+  <rect x="350" y="330" width="150" height="38" rx="10" fill="#10231E" stroke="#285143"/>
+  <text x="377" y="355" class="label">TypeScript</text>
+  <path d="M66 391C248 361 354 407 518 382C683 357 784 326 958 353C1039 365 1090 385 1134 372" stroke="url(#hero-line)" stroke-width="3" stroke-linecap="round"/>
 </svg>

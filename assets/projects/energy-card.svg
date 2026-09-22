@@ -1,62 +1,46 @@
-<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Energy Elhadad case study</title>
-  <desc id="desc">Bilingual e-commerce frontend for electrical products.</desc>
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="energy-title energy-desc">
+  <title id="energy-title">Energy Elhadad</title>
+  <desc id="energy-desc">A bilingual e-commerce platform for electrical products.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#080A0E"/>
-      <stop offset="0.58" stop-color="#0E171F"/>
-      <stop offset="1" stop-color="#151913"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="70" y1="74" x2="418" y2="268" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F2C94C"/>
-      <stop offset="0.52" stop-color="#59D59A"/>
-      <stop offset="1" stop-color="#57B7FF"/>
+    <linearGradient id="energy-bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B10"/>
+      <stop offset="1" stop-color="#111711"/>
     </linearGradient>
     <style>
-      .k{font:800 13px 'Inter','Segoe UI',Arial,sans-serif;letter-spacing:1.9px;fill:#F2C94C}
-      .t{font:850 46px 'Inter','Segoe UI',Arial,sans-serif;fill:#F8FAFC}
-      .b{font:500 20px 'Inter','Segoe UI',Arial,sans-serif;fill:#CAD4DE}
-      .m{font:850 25px 'Inter','Segoe UI',Arial,sans-serif;fill:#F8FAFC}
-      .ml{font:800 12px 'Inter','Segoe UI',Arial,sans-serif;letter-spacing:1.2px;fill:#93A4B2}
-      .chip{font:800 14px 'Inter','Segoe UI',Arial,sans-serif;fill:#ECFFF6}
-      .ui{font:800 13px 'Inter','Segoe UI',Arial,sans-serif;fill:#1E2B22}
+      .kind { font-family: Arial, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 1.6px; fill: #F4C95D; }
+      .title { font-family: Arial, sans-serif; font-size: 40px; font-weight: 700; fill: #F7F9FB; }
+      .body { font-family: Arial, sans-serif; font-size: 17px; font-weight: 400; fill: #BCC8D2; }
+      .chip { font-family: Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #DDE7EC; }
     </style>
   </defs>
-  <rect width="1280" height="340" rx="26" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1278" height="338" rx="25" stroke="#243141"/>
+  <rect width="1200" height="280" rx="20" fill="url(#energy-bg)"/>
+  <rect x="1" y="1" width="1198" height="278" rx="19" stroke="#2B3425"/>
 
-  <rect x="42" y="42" width="430" height="256" rx="24" fill="#F6F7EE"/>
-  <rect x="70" y="70" width="374" height="40" rx="20" fill="#FFFFFF"/>
-  <rect x="92" y="84" width="110" height="12" rx="6" fill="#1B2B24"/>
-  <rect x="330" y="80" width="90" height="20" rx="10" fill="#F2C94C"/>
-  <rect x="70" y="136" width="132" height="120" rx="18" fill="#FFFFFF" stroke="#E2E6D8"/>
-  <rect x="224" y="136" width="90" height="120" rx="18" fill="#FFFFFF" stroke="#E2E6D8"/>
-  <rect x="336" y="136" width="84" height="120" rx="18" fill="#FFFFFF" stroke="#E2E6D8"/>
-  <path d="M104 212L128 168H116L146 168L125 212H141L112 244L121 212H104Z" fill="url(#accent)"/>
-  <rect x="248" y="166" width="42" height="44" rx="10" fill="#DCE7DC"/>
-  <rect x="358" y="168" width="38" height="58" rx="10" fill="#DCE7DC"/>
+  <g transform="translate(34 30)">
+    <rect width="316" height="220" rx="16" fill="#F3F5ED"/>
+    <rect x="18" y="18" width="280" height="28" rx="10" fill="#FFFFFF"/>
+    <rect x="34" y="28" width="82" height="8" rx="4" fill="#1B2924"/>
+    <rect x="232" y="25" width="50" height="14" rx="7" fill="#F4C95D"/>
+    <rect x="18" y="66" width="84" height="126" rx="11" fill="#FFFFFF" stroke="#D8DDD3"/>
+    <rect x="116" y="66" width="84" height="126" rx="11" fill="#FFFFFF" stroke="#D8DDD3"/>
+    <rect x="214" y="66" width="84" height="126" rx="11" fill="#FFFFFF" stroke="#D8DDD3"/>
+    <path d="M64 92L43 135H60L49 174L83 124H66L82 92H64Z" fill="#8FCB67"/>
+    <rect x="139" y="94" width="38" height="44" rx="9" fill="#D8E5D7"/>
+    <rect x="237" y="94" width="38" height="54" rx="9" fill="#D8E5D7"/>
+  </g>
 
-  <text x="526" y="70" class="k">BILINGUAL E-COMMERCE / FRONTEND ARCHITECTURE</text>
-  <text x="526" y="130" class="t">Energy Elhadad</text>
-  <text x="526" y="177" class="b">Arabic and English e-commerce platform for electrical products.</text>
-  <text x="526" y="207" class="b">Owned frontend architecture, REST integration, review flow, and Core Web Vitals.</text>
+  <text x="400" y="61" class="kind">BILINGUAL E-COMMERCE / FRONTEND ARCHITECTURE</text>
+  <text x="400" y="112" class="title">Energy Elhadad</text>
+  <text x="400" y="151" class="body">Arabic and English commerce for electrical products.</text>
+  <text x="400" y="180" class="body">RTL foundations, REST integration, and Core Web Vitals.</text>
 
-  <rect x="526" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
-  <text x="552" y="275" class="m">AR / EN</text>
-  <text x="552" y="293" class="ml">BILINGUAL</text>
-  <rect x="692" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
-  <text x="718" y="275" class="m">RTL</text>
-  <text x="718" y="293" class="ml">INTERFACES</text>
-  <rect x="858" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
-  <text x="884" y="275" class="m">CWV</text>
-  <text x="884" y="293" class="ml">MONITORED</text>
-
-  <rect x="1042" y="94" width="100" height="32" rx="11" fill="#10241F" stroke="#275245"/>
-  <text x="1061" y="115" class="chip">Next.js</text>
-  <rect x="1042" y="138" width="116" height="32" rx="11" fill="#10241F" stroke="#275245"/>
-  <text x="1062" y="159" class="chip">TypeScript</text>
-  <rect x="1042" y="182" width="96" height="32" rx="11" fill="#10241F" stroke="#275245"/>
-  <text x="1061" y="203" class="chip">Tailwind</text>
-  <rect x="1042" y="226" width="152" height="32" rx="11" fill="#10241F" stroke="#275245"/>
-  <text x="1061" y="247" class="chip">TanStack Query</text>
+  <rect x="400" y="210" width="108" height="34" rx="9" fill="#182116" stroke="#435632"/>
+  <text x="425" y="232" class="chip">Next.js</text>
+  <rect x="520" y="210" width="126" height="34" rx="9" fill="#182116" stroke="#435632"/>
+  <text x="542" y="232" class="chip">TypeScript</text>
+  <rect x="658" y="210" width="112" height="34" rx="9" fill="#182116" stroke="#435632"/>
+  <text x="684" y="232" class="chip">Tailwind</text>
+  <rect x="782" y="210" width="96" height="34" rx="9" fill="#182116" stroke="#435632"/>
+  <text x="807" y="232" class="chip">RTL</text>
+  <path d="M1084 118L1110 140L1084 162" stroke="#F4C95D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -1,30 +1,26 @@
-<svg width="1280" height="260" viewBox="0 0 1280 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Let's make something great together</title>
-  <desc id="desc">Contact footer for Fathi Mohammed's GitHub profile.</desc>
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="footer-title footer-desc">
+  <title id="footer-title">Let's build something useful together</title>
+  <desc id="footer-desc">Contact Fathi Mohammed by email.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07090D"/>
-      <stop offset="0.68" stop-color="#0E151E"/>
-      <stop offset="1" stop-color="#111C1A"/>
+    <linearGradient id="footer-bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B10"/>
+      <stop offset="1" stop-color="#0C1816"/>
     </linearGradient>
-    <linearGradient id="line" x1="74" y1="202" x2="1206" y2="202" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFCC66"/>
-      <stop offset="0.45" stop-color="#59D59A"/>
-      <stop offset="1" stop-color="#57B7FF"/>
+    <linearGradient id="footer-line" x1="56" y1="187" x2="1144" y2="187" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4C95D"/>
+      <stop offset="0.5" stop-color="#67D6A3"/>
+      <stop offset="1" stop-color="#55B7F3"/>
     </linearGradient>
     <style>
-      .k{font:800 13px 'Inter','Segoe UI',Arial,sans-serif;letter-spacing:2px;fill:#8FE7BE}
-      .t{font:850 48px 'Inter','Segoe UI',Arial,sans-serif;fill:#F8FAFC}
-      .b{font:500 22px 'Inter','Segoe UI',Arial,sans-serif;fill:#CAD4DE}
-      .cta{font:850 18px 'Inter','Segoe UI',Arial,sans-serif;fill:#07100D}
+      .eyebrow { font-family: Arial, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 2px; fill: #76E1B0; }
+      .title { font-family: Arial, sans-serif; font-size: 40px; font-weight: 700; fill: #F7F9FB; }
+      .email { font-family: Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #E4F77B; }
     </style>
   </defs>
-  <rect width="1280" height="260" rx="28" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1278" height="258" rx="27" stroke="#243141"/>
-  <path d="M74 202C230 176 344 222 500 198C650 176 750 140 916 170C1038 192 1114 218 1206 196" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
-  <text x="74" y="72" class="k">OPEN TO FRONTEND WORK</text>
-  <text x="74" y="132" class="t">Let's make something great together.</text>
-  <text x="74" y="174" class="b">React, Next.js, performance, architecture, RTL, and polished production UI.</text>
-  <rect x="1004" y="98" width="202" height="58" rx="18" fill="#E8FF8A"/>
-  <text x="1042" y="134" class="cta">Say hi by email</text>
+  <rect width="1200" height="220" rx="20" fill="url(#footer-bg)"/>
+  <rect x="1" y="1" width="1198" height="218" rx="19" stroke="#26323E"/>
+  <text x="56" y="56" class="eyebrow">OPEN TO FRONTEND WORK</text>
+  <text x="56" y="112" class="title">Let's build something useful together.</text>
+  <text x="56" y="154" class="email">fathymohammed2229@gmail.com</text>
+  <path d="M56 187C247 159 370 203 536 180C705 157 814 145 972 171C1047 184 1097 191 1144 179" stroke="url(#footer-line)" stroke-width="3" stroke-linecap="round"/>
 </svg>

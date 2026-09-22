@@ -1,63 +1,47 @@
-<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Musawir case study</title>
-  <desc id="desc">Saudi marketplace UI rebuild inside a live Laravel codebase.</desc>
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="musawir-title musawir-desc">
+  <title id="musawir-title">Musawir</title>
+  <desc id="musawir-desc">A marketplace interface connecting clients with photographers.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#080A0E"/>
-      <stop offset="0.65" stop-color="#101822"/>
-      <stop offset="1" stop-color="#10141E"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="70" y1="74" x2="418" y2="268" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#57B7FF"/>
-      <stop offset="0.55" stop-color="#59D59A"/>
-      <stop offset="1" stop-color="#E8FF8A"/>
+    <linearGradient id="musawir-bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B10"/>
+      <stop offset="1" stop-color="#0D1420"/>
     </linearGradient>
     <style>
-      .k{font:800 13px 'Inter','Segoe UI',Arial,sans-serif;letter-spacing:1.9px;fill:#57B7FF}
-      .t{font:850 46px 'Inter','Segoe UI',Arial,sans-serif;fill:#F8FAFC}
-      .b{font:500 20px 'Inter','Segoe UI',Arial,sans-serif;fill:#CAD4DE}
-      .m{font:850 25px 'Inter','Segoe UI',Arial,sans-serif;fill:#F8FAFC}
-      .ml{font:800 12px 'Inter','Segoe UI',Arial,sans-serif;letter-spacing:1.2px;fill:#93A4B2}
-      .chip{font:800 14px 'Inter','Segoe UI',Arial,sans-serif;fill:#ECFFF6}
-      .ui{font:800 13px 'Inter','Segoe UI',Arial,sans-serif;fill:#15202A}
+      .kind { font-family: Arial, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 1.6px; fill: #55B7F3; }
+      .title { font-family: Arial, sans-serif; font-size: 40px; font-weight: 700; fill: #F7F9FB; }
+      .body { font-family: Arial, sans-serif; font-size: 17px; font-weight: 400; fill: #BCC8D2; }
+      .chip { font-family: Arial, sans-serif; font-size: 13px; font-weight: 700; fill: #DDE7EC; }
     </style>
   </defs>
-  <rect width="1280" height="340" rx="26" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1278" height="338" rx="25" stroke="#243141"/>
+  <rect width="1200" height="280" rx="20" fill="url(#musawir-bg)"/>
+  <rect x="1" y="1" width="1198" height="278" rx="19" stroke="#253242"/>
 
-  <rect x="42" y="42" width="430" height="256" rx="24" fill="#F4F8FA"/>
-  <rect x="72" y="72" width="370" height="48" rx="24" fill="#FFFFFF"/>
-  <rect x="96" y="90" width="134" height="12" rx="6" fill="#1A2430"/>
-  <rect x="342" y="84" width="74" height="24" rx="12" fill="#57B7FF"/>
-  <rect x="72" y="144" width="162" height="116" rx="20" fill="#FFFFFF" stroke="#DCE5EA"/>
-  <rect x="254" y="144" width="162" height="116" rx="20" fill="#FFFFFF" stroke="#DCE5EA"/>
-  <circle cx="132" cy="188" r="28" fill="url(#accent)"/>
-  <rect x="174" y="174" width="38" height="10" rx="5" fill="#C8D4DC"/>
-  <rect x="174" y="194" width="28" height="10" rx="5" fill="#C8D4DC"/>
-  <rect x="282" y="172" width="106" height="58" rx="15" fill="#E8EEF2"/>
-  <path d="M296 214L322 188L344 210L356 198L380 224" stroke="#57B7FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(34 30)">
+    <rect width="316" height="220" rx="16" fill="#F2F6F8"/>
+    <rect x="18" y="18" width="280" height="28" rx="10" fill="#FFFFFF"/>
+    <rect x="36" y="28" width="96" height="8" rx="4" fill="#1A252F"/>
+    <rect x="234" y="24" width="48" height="16" rx="8" fill="#55B7F3"/>
+    <rect x="18" y="68" width="126" height="124" rx="12" fill="#FFFFFF" stroke="#D7E0E6"/>
+    <circle cx="64" cy="118" r="24" fill="#55C4CE"/>
+    <rect x="96" y="103" width="30" height="8" rx="4" fill="#C5D1D9"/>
+    <rect x="96" y="120" width="22" height="8" rx="4" fill="#C5D1D9"/>
+    <rect x="160" y="68" width="138" height="124" rx="12" fill="#FFFFFF" stroke="#D7E0E6"/>
+    <rect x="180" y="92" width="98" height="72" rx="10" fill="#EAF1F5"/>
+    <path d="M191 147L215 119L234 136L249 119L269 147" stroke="#55B7F3" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
 
-  <text x="526" y="70" class="k">MARKETPLACE UI REBUILD / LIVE LARAVEL PRODUCT</text>
-  <text x="526" y="130" class="t">Musawir</text>
-  <text x="526" y="177" class="b">Saudi marketplace connecting clients with photographers.</text>
-  <text x="526" y="207" class="b">Reworked core UI, removed overlapping plugins, rebuilt pages, and improved speed.</text>
+  <text x="400" y="61" class="kind">MARKETPLACE UI REBUILD / LIVE PRODUCT</text>
+  <text x="400" y="112" class="title">Musawir</text>
+  <text x="400" y="151" class="body">A Saudi marketplace connecting clients with photographers.</text>
+  <text x="400" y="180" class="body">Cleaner UI, fewer plugin conflicts, and improved page speed.</text>
 
-  <rect x="526" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
-  <text x="552" y="275" class="m">45 -> 97</text>
-  <text x="552" y="293" class="ml">LIGHTHOUSE</text>
-  <rect x="692" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
-  <text x="718" y="275" class="m">Live</text>
-  <text x="718" y="293" class="ml">CODEBASE</text>
-  <rect x="858" y="242" width="150" height="58" rx="16" fill="#0E171F" stroke="#263746"/>
-  <text x="884" y="275" class="m">UI</text>
-  <text x="884" y="293" class="ml">REBUILD</text>
-
-  <rect x="1042" y="94" width="96" height="32" rx="11" fill="#10241F" stroke="#275245"/>
-  <text x="1061" y="115" class="chip">Laravel</text>
-  <rect x="1042" y="138" width="82" height="32" rx="11" fill="#10241F" stroke="#275245"/>
-  <text x="1061" y="159" class="chip">Blade</text>
-  <rect x="1042" y="182" width="72" height="32" rx="11" fill="#10241F" stroke="#275245"/>
-  <text x="1061" y="203" class="chip">Sass</text>
-  <rect x="1042" y="226" width="104" height="32" rx="11" fill="#10241F" stroke="#275245"/>
-  <text x="1061" y="247" class="chip">Swiper</text>
+  <rect x="400" y="210" width="104" height="34" rx="9" fill="#101D27" stroke="#294359"/>
+  <text x="428" y="232" class="chip">Laravel</text>
+  <rect x="516" y="210" width="92" height="34" rx="9" fill="#101D27" stroke="#294359"/>
+  <text x="544" y="232" class="chip">Blade</text>
+  <rect x="620" y="210" width="86" height="34" rx="9" fill="#101D27" stroke="#294359"/>
+  <text x="649" y="232" class="chip">Sass</text>
+  <rect x="718" y="210" width="98" height="34" rx="9" fill="#101D27" stroke="#294359"/>
+  <text x="744" y="232" class="chip">Swiper</text>
+  <path d="M1084 118L1110 140L1084 162" stroke="#55B7F3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
