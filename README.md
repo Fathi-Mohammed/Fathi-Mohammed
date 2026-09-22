@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Fathi Mohammed — Frontend Engineer" />
+  <img
+    src="https://raw.githubusercontent.com/Fathi-Mohammed/Fathi-Mohammed/main/assets/hero.svg"
+    width="100%"
+    alt="Fathi Mohammed — Frontend Engineer"
+  />
 </p>
 
 <p align="center">
