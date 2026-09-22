@@ -1,137 +1,127 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Fathi Mohammed</h1>
+# Hey There, I'm Fathi.
 
-<a href="https://github.com/Fathi-Mohammed">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=34D399&center=true&vCenter=true&width=540&height=45&lines=Front-End+Developer+from+Egypt;React+%26+Next.js+Specialist;Turning+Figma+into+Pixel-Perfect+UIs;Performance+%26+SEO+Focused" alt="What I do" />
-</a>
+### Frontend engineer building React & Next.js platforms.
 
-<p>
-  Crafting fast, scalable & beautifully detailed web interfaces with <b>React</b>, <b>Next.js</b> & <b>TypeScript</b>.
-</p>
+I build fast, scalable and maintainable web experiences —  
+with a strong focus on **architecture, performance and polished user interfaces.**
 
-<a href="https://www.linkedin.com/in/fathi-mohammed-999083326" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:fathymohammed2229@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/Fathi-Mohammed" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100009710711089" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Fathi-Mohammed&label=Profile+Views&color=10B981&style=flat" alt="Profile Views" />
+[Portfolio](https://portfolio-eosin-rho-32.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/fathi-mohammed-999083326) ·
+[Email](mailto:fathymohammed2229@gmail.com)
 
 </div>
 
----
+<br />
 
-## 🧑‍💻 About Me
+<table>
+  <tr>
+    <td align="center"><strong>3+</strong><br/>Years Experience</td>
+    <td align="center"><strong>25+</strong><br/>Client Platforms</td>
+    <td align="center"><strong>98</strong><br/>Lighthouse</td>
+    <td align="center"><strong>AR / EN</strong><br/>Bilingual UI</td>
+  </tr>
+</table>
 
-- 🚀 **Front-End Developer** with **3+ years** building high-performance, SEO-friendly web apps
-- ⚛️ Specialized in **React.js**, **Next.js** & **TypeScript**, with a strong focus on clean architecture
-- 🎨 Passionate about **design systems**, **micro-animations** & turning Figma into **pixel-perfect** UIs
-- 🌍 Based in **Mansoura, Egypt** — open to new front-end opportunities
-- 📫 Reach me at **fathymohammed2229@gmail.com**
+<br />
 
----
+## What I do.
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass&theme=dark" alt="Languages" />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" alt="Frameworks" />
-&nbsp;
-<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" height="28" />
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" height="28" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,figma,postman,nodejs,express&theme=dark" alt="Tools" />
-
-</div>
-
----
-
-## 💼 Featured Projects
+I work end to end on the frontend — setting up the architecture,
+shaping the interface and keeping both fast as the product grows.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<h3>🎓 Booslah</h3>
-<p>A professional <b>mentorship marketplace</b> connecting users with industry experts — multi-language (AR/EN), advanced filtering & a dynamic booking system, fully optimized for SEO.</p>
-<p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>React Query</code> <code>Next-Intl</code></p>
+### Frontend Engineering
 
-</td>
-<td width="50%" valign="top">
-
-<h3>💬 Hein</h3>
-<p>A <b>classified ads platform</b> with account creation, ad posting, <b>real-time chat</b>, a wallet payment system & premium subscriptions.</p>
-<p><code>React</code> <code>TypeScript</code> <code>Pusher</code> <code>Ant Design</code> <code>React Query</code></p>
+Feature-based **React & Next.js** architecture built to stay predictable and maintainable as products grow.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<h3>🍦 Alamal</h3>
-<p>An <b>e-commerce platform</b> for an ice-cream brand — product browsing, cart & checkout, job applications and customer support flows.</p>
-<p><code>React</code> <code>TypeScript</code> <code>Ant Design</code> <code>Sass</code> <code>Swiper</code></p>
+### Performance & SEO
+
+Core Web Vitals, rendering strategies, bundle optimization and SEO treated as product features.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<h3>🧾 Invoice Generator</h3>
-<p>A <b>full-stack</b> service that generates PDF invoices on the fly via an API by rendering HTML templates server-side.</p>
-<p><code>Express.js</code> <code>Puppeteer</code> <code>Node.js</code></p>
+### Bilingual UI
+
+Arabic-first **AR / EN · RTL** interfaces with reusable components and scalable design systems.
 
 </td>
 </tr>
 </table>
 
----
+<br />
 
-## 📊 GitHub Stats
+## Selected work.
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fathi-Mohammed&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9&icon_color=22D3EE&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathi-Mohammed&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=C9D1D9" alt="Top Languages" />
+### Energy Elhadad
 
-<br/>
+Bilingual e-commerce platform for electrical products.
 
-<img height="170" src="https://streak-stats.demolab.com?user=Fathi-Mohammed&hide_border=true&background=0D1117&stroke=21262D&ring=34D399&fire=22D3EE&currStreakLabel=34D399&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=8B949E&excludeDaysLabel=8B949E" alt="GitHub Streak" />
+Led frontend architecture, API integration and code review while keeping a close eye on Core Web Vitals.
 
-<br/>
+`Next.js` `TypeScript` `Tailwind` `TanStack Query`
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fathi-Mohammed&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+[Visit project →](https://energyelhadad.com)
 
-</div>
+</td>
+<td width="33%" valign="top">
 
----
+### Booslah
 
-## 📈 Contribution Graph
+Professional mentorship marketplace with expert filtering, booking, video sessions and real-time chat.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fathi-Mohammed&bg_color=0D1117&color=C9D1D9&title_color=34D399&line=34D399&point=22D3EE&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
+`Next.js` `TypeScript` `NextAuth` `Socket.io`
 
----
+[Visit project →](https://booslah.com)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=footer" width="100%" />
-  <br/>
-  <i>Thanks for visiting — let's build something great together! 💚</i>
-</div>
+</td>
+<td width="33%" valign="top">
+
+### Haieen
+
+Classified ads marketplace with real-time chat, premium subscriptions and an integrated wallet.
+
+`React` `TypeScript` `Pusher` `Ant Design`
+
+[Visit project →](https://haieen.com)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## Stack.
+
+**Frontend**  
+React · Next.js · TypeScript · JavaScript
+
+**UI**  
+Tailwind CSS · Sass · Ant Design · shadcn/ui
+
+**Architecture & Data**  
+Feature-Sliced Design · Domain Modeling · Design Systems · TanStack Query · Redux Toolkit
+
+**Realtime & Backend**  
+NextAuth · Socket.io · Pusher · Node.js · Express.js
+
+<br />
+
+## A little about how I work.
+
+```text
+clean interfaces.
+scalable architecture.
+fast experiences.
