@@ -1,7 +1,15 @@
 <p align="center">
+<<<<<<< HEAD
   <a href="https://portfolio-eosin-rho-32.vercel.app/">
     <img src="./assets/hero.svg" width="100%" alt="Fathi Mohammed - Frontend Engineer" />
   </a>
+=======
+  <img
+    src="https://github.com/Fathi-Mohammed/Fathi-Mohammed/blob/main/assets/hero.svg?raw=true"
+    width="100%"
+    alt="Fathi Mohammed — Frontend Engineer"
+  />
+>>>>>>> d32b645eff53231e986886d4b0b0de4a231a8f0c
 </p>
 
 <p align="center">
