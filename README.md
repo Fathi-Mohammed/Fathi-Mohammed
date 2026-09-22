@@ -1,127 +1,503 @@
-<div align="center">
-
-# Hey There, I'm Fathi.
-
-### Frontend engineer building React & Next.js platforms.
-
-I build fast, scalable and maintainable web experiences —  
-with a strong focus on **architecture, performance and polished user interfaces.**
-
-[Portfolio](https://portfolio-eosin-rho-32.vercel.app/) ·
-[LinkedIn](https://www.linkedin.com/in/fathi-mohammed-999083326) ·
-[Email](mailto:fathymohammed2229@gmail.com)
-
-</div>
-
-<br />
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
 
 <table>
   <tr>
-    <td align="center"><strong>3+</strong><br/>Years Experience</td>
-    <td align="center"><strong>25+</strong><br/>Client Platforms</td>
-    <td align="center"><strong>98</strong><br/>Lighthouse</td>
-    <td align="center"><strong>AR / EN</strong><br/>Bilingual UI</td>
+    <td width="62%" valign="middle">
+
+<p>
+  <sub><b>CRAFTING THE EXPERIENCE</b></sub>
+</p>
+
+<h1>
+  Hey There,<br/>
+  I’m Fathi.
+</h1>
+
+<h3>
+  Frontend engineer building<br/>
+  React & Next.js platforms.
+</h3>
+
+<p>
+  I build fast, scalable and maintainable web experiences —
+  with a strong focus on <b>architecture</b>,
+  <b>performance</b> and polished user interfaces.
+</p>
+
+<br/>
+
+<a href="https://portfolio-eosin-rho-32.vercel.app/">
+  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-247B70?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/fathi-mohammed-999083326">
+  <img src="https://img.shields.io/badge/LINKEDIN-111614?style=for-the-badge&logo=linkedin&logoColor=8BBB92" />
+</a>
+
+<a href="mailto:fathymohammed2229@gmail.com">
+  <img src="https://img.shields.io/badge/SAY_HI-111614?style=for-the-badge&logo=gmail&logoColor=8BBB92" />
+</a>
+
+    </td>
+
+    <td width="38%" align="center" valign="bottom">
+
+<img
+  src="https://portfolio-eosin-rho-32.vercel.app/images/fathi.png"
+  width="290"
+  alt="Fathi Mohammed"
+/>
+
+    </td>
   </tr>
 </table>
 
-<br />
+<br/>
 
-## What I do.
+<div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
+
+<h2>4+</h2>
+<sub>YEARS EXPERIENCE</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>70+</h2>
+<sub>PROJECTS DELIVERED</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<h2>60%</h2>
+<sub>FASTER INITIAL LOAD</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://portfolio-eosin-rho-32.vercel.app/images/brush.png"
+    width="65"
+    alt=""
+  />
+</p>
+
+<!-- ========================= -->
+<!--         ABOUT ME          -->
+<!-- ========================= -->
+
+<h2>What I do.</h2>
+
+<p>
 I work end to end on the frontend — setting up the architecture,
 shaping the interface and keeping both fast as the product grows.
+Most of my work lives inside React and Next.js codebases that need
+to stay maintainable for years, not weeks.
+</p>
+
+<br/>
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-### Frontend Engineering
+<h3>01 — Frontend Engineering</h3>
 
-Feature-based **React & Next.js** architecture built to stay predictable and maintainable as products grow.
+<p>
+Feature-based <b>React & Next.js</b> architecture,
+clear domain boundaries and reusable systems designed
+to stay predictable as products grow.
+</p>
 
 </td>
+
 <td width="33%" valign="top">
 
-### Performance & SEO
+<h3>02 — Performance & SEO</h3>
 
-Core Web Vitals, rendering strategies, bundle optimization and SEO treated as product features.
+<p>
+Core Web Vitals, rendering strategy, code splitting,
+asset optimization and performance treated as part of
+the product — not an afterthought.
+</p>
 
 </td>
+
 <td width="33%" valign="top">
 
-### Bilingual UI
+<h3>03 — Bilingual UI</h3>
 
-Arabic-first **AR / EN · RTL** interfaces with reusable components and scalable design systems.
+<p>
+Arabic-first <b>AR / EN · RTL</b> interfaces,
+reusable components and scalable design systems
+built for real production products.
+</p>
 
 </td>
+
 </tr>
 </table>
 
-<br />
+<br/>
 
-## Selected work.
+---
+
+<!-- ========================= -->
+<!--       SELECTED WORK       -->
+<!-- ========================= -->
+
+<h2>Selected work.</h2>
+
+<p>
+A few products where I worked beyond just shipping screens —
+architecture, performance, maintainability and product experience.
+</p>
+
+<br/>
+
+
+<!-- FINAL -->
 
 <table>
 <tr>
-<td width="33%" valign="top">
 
-### Energy Elhadad
+<td width="55%" valign="middle">
 
-Bilingual e-commerce platform for electrical products.
-
-Led frontend architecture, API integration and code review while keeping a close eye on Core Web Vitals.
-
-`Next.js` `TypeScript` `Tailwind` `TanStack Query`
-
-[Visit project →](https://energyelhadad.com)
-
-</td>
-<td width="33%" valign="top">
-
-### Booslah
-
-Professional mentorship marketplace with expert filtering, booking, video sessions and real-time chat.
-
-`Next.js` `TypeScript` `NextAuth` `Socket.io`
-
-[Visit project →](https://booslah.com)
+<a href="https://portfolio-eosin-rho-32.vercel.app/projects/final">
+  <img
+    src="https://portfolio-eosin-rho-32.vercel.app/images/projects/final/next-products-desktop.png"
+    width="100%"
+    alt="Final Platform"
+  />
+</a>
 
 </td>
-<td width="33%" valign="top">
 
-### Haieen
+<td width="45%" valign="middle">
 
-Classified ads marketplace with real-time chat, premium subscriptions and an integrated wallet.
+<sub>PLATFORM REBUILD · TECHNICAL LEAD</sub>
 
-`React` `TypeScript` `Pusher` `Ant Design`
+<h2>Final</h2>
 
-[Visit project →](https://haieen.com)
+<p>
+A complete <b>Next.js 16 rebuild</b> of a live
+camera-equipment rental platform.
+</p>
+
+<p>
+Led the design system, frontend architecture and code quality
+across a two-engineer frontend team.
+</p>
+
+<p>
+<b>37 → 98</b> Lighthouse<br/>
+<b>10.9s → 0.8s</b> LCP<br/>
+<b>254</b> test files
+</p>
+
+<p>
+<code>Next.js 16</code>
+<code>TypeScript</code>
+<code>Tailwind</code>
+<code>TanStack Query</code>
+<code>Vitest</code>
+<code>Playwright</code>
+</p>
+
+<a href="https://portfolio-eosin-rho-32.vercel.app/projects/final">
+  <b>View case study →</b>
+</a>
 
 </td>
+
 </tr>
 </table>
 
-<br />
+<br/><br/>
 
-## Stack.
 
-**Frontend**  
-React · Next.js · TypeScript · JavaScript
+<!-- ENERGY ELHADAD -->
 
-**UI**  
-Tailwind CSS · Sass · Ant Design · shadcn/ui
+<table>
+<tr>
 
-**Architecture & Data**  
-Feature-Sliced Design · Domain Modeling · Design Systems · TanStack Query · Redux Toolkit
+<td width="45%" valign="middle">
 
-**Realtime & Backend**  
-NextAuth · Socket.io · Pusher · Node.js · Express.js
+<sub>E-COMMERCE CASE STUDY</sub>
 
-<br />
+<h2>Energy Elhadad</h2>
 
-## A little about how I work.
+<p>
+Bilingual <b>AR / EN</b> e-commerce platform
+for electrical products.
+</p>
 
-```text
-clean interfaces.
-scalable architecture.
-fast experiences.
+<p>
+Led frontend architecture, REST integration
+and code review in a two-developer workflow
+while keeping Core Web Vitals in focus.
+</p>
+
+<p>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>Tailwind</code>
+<code>TanStack Query</code>
+</p>
+
+<a href="https://portfolio-eosin-rho-32.vercel.app/projects/energy-elhadad">
+  <b>View case study →</b>
+</a>
+
+</td>
+
+<td width="55%" valign="middle">
+
+<a href="https://portfolio-eosin-rho-32.vercel.app/projects/energy-elhadad">
+  <img
+    src="https://portfolio-eosin-rho-32.vercel.app/images/projects/energy-elhadad/desktop-home.png"
+    width="100%"
+    alt="Energy Elhadad"
+  />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/><br/>
+
+
+<!-- MUSAWIR -->
+
+<table>
+<tr>
+
+<td width="55%" valign="middle">
+
+<a href="https://portfolio-eosin-rho-32.vercel.app/projects/musawir">
+  <img
+    src="https://portfolio-eosin-rho-32.vercel.app/images/projects/musawir/desktop-home-clean.png"
+    width="100%"
+    alt="Musawir"
+  />
+</a>
+
+</td>
+
+<td width="45%" valign="middle">
+
+<sub>LEGACY LARAVEL REBUILD</sub>
+
+<h2>Musawir</h2>
+
+<p>
+Frontend rescue and UI renewal inside an existing
+Laravel platform for finding and hiring photographers
+across Saudi Arabia.
+</p>
+
+<p>
+Reduced overlapping dependencies, rebuilt core screens
+and improved the optimized Lighthouse score from
+<b>~45 → 97</b>.
+</p>
+
+<p>
+<code>Laravel</code>
+<code>Blade</code>
+<code>Sass</code>
+<code>JavaScript</code>
+<code>Swiper</code>
+</p>
+
+<a href="https://portfolio-eosin-rho-32.vercel.app/projects/musawir">
+  <b>View case study →</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<a href="https://portfolio-eosin-rho-32.vercel.app/#projects">
+  <img
+    src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-247B70?style=for-the-badge&logo=vercel&logoColor=white"
+  />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ========================= -->
+<!--           STACK           -->
+<!-- ========================= -->
+
+<h2>My stack.</h2>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass&theme=dark"
+  alt="Frontend Stack"
+/>
+
+<br/><br/>
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,redux,git,github,gitlab,figma&theme=dark"
+  alt="Tools"
+/>
+
+<br/><br/>
+
+<p>
+  React · Next.js · TypeScript · JavaScript · Tailwind CSS · Sass
+  <br/>
+  TanStack Query · Redux Toolkit · NextAuth · Socket.io · Pusher
+  <br/>
+  Node.js · Express.js · Feature-Sliced Design · Domain Modeling
+</p>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ========================= -->
+<!--        PHILOSOPHY         -->
+<!-- ========================= -->
+
+<br/>
+
+<div align="center">
+
+<h1>
+Clean interfaces.<br/>
+Scalable architecture.<br/>
+Fast experiences.
+</h1>
+
+<p>
+<i>
+I care about the parts users see —<br/>
+and the architecture they never see.
+</i>
+</p>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ========================= -->
+<!--       GITHUB ACTIVITY     -->
+<!-- ========================= -->
+
+<h2>On GitHub.</h2>
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=Fathi-Mohammed&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8BBB92&text_color=C9D1D9&icon_color=8BBB92"
+  alt="GitHub Stats"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathi-Mohammed&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=8BBB92&text_color=C9D1D9"
+  alt="Top Languages"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Fathi-Mohammed&bg_color=0D1117&color=C9D1D9&title_color=8BBB92&line=8BBB92&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+  alt="Contribution Graph"
+/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ========================= -->
+<!--          CONTACT          -->
+<!-- ========================= -->
+
+<br/>
+
+<div align="center">
+
+<sub>HAVE A PROJECT IN MIND?</sub>
+
+<h1>
+Let’s make something<br/>
+great together.
+</h1>
+
+<p>
+Frontend Engineer · Mansoura, Egypt
+</p>
+
+<a href="mailto:fathymohammed2229@gmail.com">
+  <img
+    src="https://img.shields.io/badge/START_BY_SAYING_HI-247B70?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://portfolio-eosin-rho-32.vercel.app/">Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/fathi-mohammed-999083326">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Fathi-Mohammed">GitHub</a>
+
+<br/><br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Fathi-Mohammed&label=PROFILE+VIEWS&color=247B70&style=flat-square"
+  alt="Profile Views"
+/>
+
+<br/><br/>
+
+<sub>
+© 2026 Fathi Mohammed · Crafting the experience.
+</sub>
+
+</div>
